@@ -15,7 +15,7 @@
    - https://www.hotjar.com/
    - https://analytics.google.com/analytics/web/
    - https://developers.google.com/speed/pagespeed/insights/ => (mobil uyumluluk, google uyumluluk gibi konulari gosterir)
-   - What Eklentisi => https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip
+   - What Runs Eklentisi => https://chrome.google.com/webstore/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip
 
    ---
 
